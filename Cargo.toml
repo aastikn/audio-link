@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+cpal = { git = "https://github.com/RustAudio/cpal.git", version = "0.15.3" }
