@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 cpal = { git = "https://github.com/RustAudio/cpal.git", version = "0.15.3" }
+rodio = "0.17.1"
